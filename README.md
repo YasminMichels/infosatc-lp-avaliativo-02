@@ -15,6 +15,3 @@ Segunda fase
 Essa é uma atividade avaliativa realizada por mim dia 09.09
 <br>
 [Minha página do Git](https://github.com/YasminMichels)
-
-<br>
-![alt text](https://i.pinimg.com/originals/96/0b/2b/960b2b719c0fa61dd25cabcb83da6fc4.gif)
