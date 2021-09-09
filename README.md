@@ -8,6 +8,10 @@
 <br>
 
 **2021**
+<br>
+
 Segunda fase 
+<br>
 Essa é uma atividade avaliativa realizada por mim dia 09.09
+<br>
 [Minha página do Git](https://github.com/YasminMichels)
