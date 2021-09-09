@@ -4,5 +4,5 @@
 ###**Curso de Informática** 
 ##Linguagem de programação
 #2021
-[Google](https://www.google.com.br/)
+
 [Build](https://github.com/YasminMichels)
